@@ -3,11 +3,15 @@
 
 // List of available tours (add new tours here)
 const AVAILABLE_TOURS = [
-    {
-        id: 'example-ucc',
-        folder: 'example-ucc'
-    },
 
+    {
+        id: 'walkingtourwater',
+        folder: 'WALKINGTOURWATER'
+    },
+    {
+        id: 'fromheretothere',
+        folder: 'FromHereToThere'
+    },
     // Add new tours here following the same pattern:
     // {
     //     id: 'your-tour-id',

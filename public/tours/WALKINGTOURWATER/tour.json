@@ -1,0 +1,64 @@
+{
+    "id": "walkingtourwater",
+    "title": "Water we Doin'?",
+    "description": "Thirsty? The Casa Loma Neighbourhood has a rich history to offer. Water has run through this community for centuries, from melting ice that molded the land, to men and women that bent rivers, ponds, and pipes to their will. Casa Loma was shaped by water. Come with us to explore the names, faces, and places that water runs over and through. From Ravines named after a Pianoman, Parks, Pumps and Estates named for his Wife, and the Hydro Tycoon that centered his community, the rich history of water in Casa Loma was tied closely to the people who built it, and the people who forced what was once Yorkville to join a new world, all because of the water in their cups. What did they do then, and water we doing now? Join our group in following the tides, and learning about what lies under the surface, let’s dive deep!",
+    "duration": "1 Hour, 2.5km, Elevation ⬆️ 62 m · 34 m ⬇️",
+    "stops_data": [
+
+        {
+            "id": 1,
+            "type": "point",
+            "title": "The Dawn of Time",
+            "description": "Stop 1 - Baldwin Steps",
+            "text": "Our journey begins 13,000 years ago at the end of the last Ice Age. The water melting from the Laurentide Ice Sheet filled the lake with water above the previous shoreline (Image 2 and 4). The water drained out towards the Hudson River because the St. Lawrence was frozen over (Image 3 and 4). After the Ice Age, the water started to drain north like it does now.",
+            "latitude": 43.677640,
+            "longitude": -79.408240,
+            "audio": ["stop1.m4a"],
+            "images":["STOP1 IMAGE1.png","STOP1 IMAGE2.png","STOP1 IMAGE3.png","STOP1 IMAGE4.png"]
+        },
+        {
+            "id": 2,
+            "type": "point",
+            "title": "Casa Loma - A (somewhat) Brief History",
+            "description": "Stop 2 - Casa Loma",
+            "text": "Sir Henry Pellatt, born in 1859, founded the Toronto Electric Light Company in 1883 and later played a key role in establishing Canada's first hydro-generating plant at Niagara Falls in 1902. By 1911, his ventures had amassed him a $17 million fortune, and he hired architect E.J. Lennox to build his dream castle, Casa Loma, which featured advanced water systems for its time. However, Pellatt's downfall began when the province created the publicly-owned Hydro-Electric Power Commission of Ontario in 1911, acquiring his private firm. By 1923, with mounting debts of $1.7 million, he was forced to auction his belongings and abandon the castle less than ten years after its completion. His financial ruin was sealed by a post-war economic slump which rendered his stocks worthless, forcing him to hand the property over to the city. Today, Casa Loma's history with water continues through a hydroponics initiative by the startup Lyrata, supported by U of T Engineering, to promote sustainable urban farming. This modern project uses nutrient-rich water to grow produce locally, aiming to reduce the environmental impact of the agriculture sector, which was responsible for 10% of Canada's greenhouse gas emissions in 2021.",
+            "latitude": 43.678081,
+            "longitude": -79.4097676,
+            "audio": ["stop2.m4a"],
+            "images":["STOP2 IMAGE1.jpg","STOP2 IMAGE2.jpg","STOP2 IMAGE3.jpg","STOP2 IMAGE4.jpg","STOP2 IMAGE5.jpg","STOP2 IMAGE6.jpg","STOP2 IMAGE7.jpg","STOP2 IMAGE8.jpg","STOP2 IMAGE9.jpg","STOP2 IMAGE10.jpg","STOP2 IMAGE11.jpg","STOP2 IMAGE12.jpg"]
+        },
+        {
+            "id": 3,
+            "type": "point",
+            "title": "Labour of Love",
+            "description": "Stop 3 - Nordheimer Estate",
+            "text": "On the surface a relatively simple love story between Mr and Mrs Nordheimer actually has a much more meaningful place in history than it might see. In search of wealth, Mr. Nordheimer sold off his dirty pond water to the town of Yorkville, resulting in numerous health concerns and complaints. When Toronto took over the responsibility they also took over the pumping station and used it for nearby reservoirs, helping increase the area’s pumping capacity drastically. This acquisition went on to become one of the most influential and important pieces of infrastructure in Toronto history. The Gleynedyth estate and its dammed pond water single handedly shape the present Toronto hydro system, increasing hygiene standards and the wellbeing of Yorkville residents forever.",
+            "latitude": 43.6781924,
+            "longitude": -79.4048735,
+            "audio": ["Stop 3.m4a"],
+            "images": ["Stop 3 - 1.png","Stop 3 - 2.png","Stop 3 - 3.png","Stop 3 - 4.png","Stop 3 - 5.png"]
+        },
+        {
+            "id": 4,
+            "type": "point",
+            "title": "Changing Tides",
+            "description": "Stop 4 - High Level Pumping Station",
+            "text": "(The High Level Pumping Station is a major artery for the Toronto municipal water system. Built upon the old pumping station, which was created to provide water to the independent community of Yorkville, pumping water from a dammed pond built by Samuel Nordheimer. Toronto annexed Yorkville in an agreement that gave them access to clean water, and turned the Yorkville Waterworks into the Highlevel Pumping station, which carried water from Lake Ontario to north of the Iroquois Shore, into the New City. It now acts as a landmark in the community, and houses a park as well.)",
+            "latitude": 43.6777422124109,
+            "longitude": -79.40212882435401,
+            "audio": ["Stop4_recording.m4a"],
+            "images": ["STOP4_1samuelNordheimerYorkHorseClub.jpg","STOP4_2GlenEdythPond.jpg","STOP4_3HLPumpingStationConstruction.jpg","STOP4_4HLWaterPumps.jpg","STOP4_5HLPumpingStationOld.jpg"]
+        },
+        {
+            "id": 5,
+            "type": "point",
+            "title": "Sir Winston Churchill Reservoir",
+            "description": "Stop 5 - Sir Winston Churchill Reservoir",
+            "text": "(A park built for the community and where people come to play tennis at the club, something I myself have done many times. And has over a decade rehabilitation to maintain its infrastructure, leading to the restoration of the park's green roof and amenities like walkways, tennis courts, and a playground. Everyone drinks water. This is not only a park but a massive underground reservoir that holds 10% of all Toronto's drinking water. Funded by the eton family; it was built in 1930 because of the rapid growth of the population and the need for more drinking water in the city of Toronto.)",
+            "latitude": 43.6828,
+            "longitude":79.4109,
+            "audio": ["stop3.mp3"],
+            "images": ["Stop5 - 1 .jpg","Stop5 - 2 .jpg"]
+        }
+    ]
+}

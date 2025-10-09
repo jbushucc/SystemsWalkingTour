@@ -1,0 +1,71 @@
+{
+    "id": "fromheretothere",
+    "title": "From here to there: How Torontonians get everywhere",
+    "description": "Toronto is filled with pathways, not only paved roads, but paths, rivers, and trails. Over the long history of Toronto these pathways have been covered up or forgotten. Today we will help you rediscover these paths and show how they form the Toronto we know today.",
+    "duration": "60 Minutes",
+    "stops_data":[
+        {
+            "id": 1,
+            "type": "point",
+            "title": "The Great Fill",
+            "description": "St Clair, one of the oldest streets in Toronto, was not always the street it is today.",
+            "text": "",
+            "latitude": 43.6838,
+            "longitude": -79.4142,
+            "audio": ["stop1.mp3"],
+            "images": ["image-1-1.png, image-1-2.png"]
+        },
+     
+ 
+	 {
+            "id": 2,
+            "type": "",
+            "title": "",
+            "description": "",
+            "text": "",
+            "latitude": 43.680006,
+            "longitude":-79.4101,
+            "audio": [""],
+            "images": [""]
+        },
+       
+
+	 {
+            "id": 3,
+            "type": "point",
+            "title": "The Protests That Changed Toronto",
+            "description": "In the 50’s, the city dreamed of a highway that would connect downtown and the northern suburbs. However when it began, the people of the neighbourhoods it would cut through, like the Annex and Rathnelly, rose up and fought back, eventually stopping it before it could cut through their communities. ",
+            "text": "The Spadina Bridge and Nordheimer Ravine serve as powerful reminders of how close Toronto came to losing one of its most beautiful natural spaces. This stop will explore the history of the proposed Spadina Expressway, a controversial project from the 1950s that would have cut through the ravine to connect downtown to the suburbs. As we stand here, we’ll imagine how this quiet green space could have become a busy highway, look at early fire maps showing planned development across the ravine, and reflect on how community protests — including those by nearby residents in the Republic of Rathnelly were able to help stop the project and preserve the area we see today.",
+            "latitude": 43.6823,
+            "longitude": -79.4101,
+            "audio": ["stop3.mp3"],
+            "images": ["image-3-1, image-3-2"]
+        },
+
+
+        {
+            "id": 4,
+            "type": "point",
+            "title": "",
+            "description": "",
+            "text": "",
+            "latitude": 43.680006,
+            "longitude":-79.4101,
+            "audio": ["stop4.mp3"],
+            "images": ["image-4-1.png, image-4-2, image-4-3, image-4-4, image-4-5, image-4-6, image-4-7, image-4-8, image-4-9, image-4-10, image-4-11, image-4-12"]
+        },
+       
+
+ 	{
+            "id": 5,
+            "type": "point",
+            "title": "The Road That Transports Time",
+            "description": "Poplar Plains may seem like a small insignificant road but that could not be further from the truth, this road has a history so rich, it tells the story of Toronto’s transportation throughout time.",
+            "text": "Poplar Plains may be a small road but it displays the evolution of variety of transportation in Toronto. This stop will start on Poplar Plains Road at the entrance to the Nordheimer Ravine. While making our way South to Dupont, we will explore the history of the bike path on Poplar Plains Road and it’s significance to the city of Toronto. After discussing the bike path, we will go back in time and explore the historical usage of Poplar Plains road by the Anishnaabe and Northwest Company. We will end of this stop at the foot of Poplar Plains road by the intersection of Dupont and explore the evolution and significance of this railway.",
+            "latitude": 43.680006,
+            "longitude": -79.402949,
+            "audio": ["stop5.mp3"],
+            "images": ["image-5-1, image-5-2"]
+        }
+    ]
+}
