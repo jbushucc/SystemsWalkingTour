@@ -1,0 +1,66 @@
+{
+    "id": "Lost City",
+    "title": "The Lost City - Toronto",
+    "description": "Toronto is built on ancient history. From the hundreds of Indigenous tribes before us, the British and French Colonists, and the governments of modern Toronto before our time, The city holds relics of an older time littered throughout the city like ancient shorelines, hidden creeks, and condemned water plants. We’ll go through the neighbourhood of Casa Loma, uncovering the artifacts left, lost, and hidden, and revealing traces of Toronto that live beneath the surface. We’ll consider the implications that the past has on our life now, and reflect on how we can change our mindsets to set up for a future where things are built to last, not to be lost.",
+    "duration": "around 60 minutes",
+    "stops_data": [
+
+        {
+            "id": 1,
+            "type": "point",
+            "title": "Nordheimer Ravine TTC Emergency Exit",
+            "description": "This is the St. Clair West Subway Station Emergency Exit, located in Nordheimer Ravine. It was used as an access point during the 1995 Russell Hill subway accident, Toronto’s deadliest transit disaster. In 2017, the concrete structure was painted with a mural of native plants, transforming a hidden piece of infrastructure into a visible symbol of healing and connection to the ravine.",
+            "text": "Welcome to the Nordheimer Ravine St Clair West TTC Exit",
+            "latitude": 43.68364,
+            "longitude": -79.41519,
+            "audio": ["stop1.mp3"],
+            "images": ["Stop-1-1.jpeg", "Stop-1-2.jpeg", "Stop-1-3.jpeg", "Stop-1-4.jpeg", "Stop-1-5.jpeg"]
+        },
+        {
+            "id": 2,
+            "type": "point",
+            "title": "Casa Loma Stables - A sailers nightmare",
+            "description": "The Casa Loma Stables during WWII were used for the production of the radar software for the detection of German U boats. In this stop we will look into the past of the stables and how they have helped make the world a better place.",
+            "text": "Welcome to the Casa Loma Stables.",
+            "latitude": 43.679167,
+            "longitude": -79.4140833,
+            "audio": ["stop2.mp3"],
+            "images": ["stop2-1.png", "stop2-2.png", "stop2-3.png", "stop2-4.png", "stop2-5.png", "stop2-6.png"]
+        },
+        {
+            "id": 3,
+            "type": "point",
+            "title": "High Level Pumping Station",
+            "description": "This stop of the walking tour shines a light on the often overlooked High Level Pumping station and its crucial role as an active participant in our city’s infrastructure and water system. This stop aims to explore the historical origins and significance of this facility that still hums with life today, as well as connecting to the broader theme of sustainability, and a city that was once Lost and Found.",
+            "text": "Behold! The High Level Pumping Station, the Hidden Heart of Toronto’s Water System.",
+            "latitude": 43.67817,
+            "longitude": -79.40308,
+            "audio": ["stop3.m4a"],
+            "images": ["image-3-1.jpeg", "image-3-2.jpg", "image-3-3.jpg", "image-3-4.jpeg", "image-3-5.png"]
+        },
+        {
+            "id": 4,
+            "type": "point",
+            "title": "West Limit - Davenport Road",
+            "description": "This stop of our walking tour will take the participants through the detailed history of Davenport Road. During my stop, I will dive into the road’s ancient history and the role the Indigenous had in the formation of Davenport Road. Next, I’ll talk about the Colonial history of Davenport Road, finishing at the Tollkeeper’s Cottage. We will explore how Toronto is built on millennia of history before how we know it today. ",
+            "text": "Welcome to Davenport, the oldest road in the world.",
+            "latitude": 43.6767,
+            "longitude": -79.4103,
+            "audio": ["stop4.mp3"],
+            "images": ["Image-4-1.png", "Image-4-2.png", "Image-4-3.png"]
+
+        },
+        {
+            "id": 5,
+            "type": "walk",
+            "title": "Wychwood Park and Taddle Creek",
+            "description": "Uncover the buried story of Taddle Creek beneath Wychwood Park — where Toronto’s hidden river once carved the land, nourished communities, and now quietly flows beneath one of the city’s most beautiful neighborhoods.",
+            "text": "At Wychwood Park locates the only trace of Toronto’s ancient Taddle Creek - the pond at its center — a living fragment of a 13,000-year-old waterway buried by urban growth. This stop traces the creek’s journey from its prehistoric formation process, creation of the indigenous communities to its pollution and disappearance beneath the city. You’ll discover how artists, families, and forgotten heroes that once gathered around in the same neighborhood, and reflect on how remembering lost landscapes can inspire a more sustainable relationship between nature and the evolving technology.",
+            "latitude": 43.678228,
+            "longitude": -79.420129,
+            "audio": ["stop5.m4a"],
+            "images": ["Stop-5-1.jpeg", "Stop-5-2.jpeg", "Stop-5-3.jpeg", "Stop-5-4.jpeg", "Stop-5-5.jpeg", "Stop-5-6.jpg", "Stop-5-7.jpeg", "Stop-5-8.jpg"]
+        
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "id": "artistsinaction",
+    "title": "Artists in Action: Counterculture and Expression",
+    "description": "Exploring the vibrant world of artists who challenge the status quo and use their work as a form of expression.",
+    "duration": "",
+    "stops_data": [
+       {
+            "id": 1,
+            "type": "point",
+            "title": "The Spirits of the Ancestral Trees Mural at Nordheimer Ravine",
+            "description": "Indigenous Presence through Street Art ",
+            "text": "Exploring the subtle systemic integration of indigenous practices and values through meaningful and accessible art.",                   
+            "latitude": 43.683500,
+            "longitude": -79.415361,
+            "audio": ["IndigenousMuralAudio.mp3"],
+            "images": ["TheSpiritsoftheAncestralTreesMural.jpg"]
+        },
+        {
+            "id": 2,
+            "type": "point",
+            "title": "Tarragon Theatre",
+            "description": "The The former cribbage board factory that launched Canada's modern theatrical voice by strictly staging new Canadian plays",
+            "text": "Exploring how this former factory became the Tarragon Theatre, launching a cultural rebellion by refusing Broadway hits and staging only new Canadian plays",
+            "latitude": 43.693,
+            "longitude": -79.404,
+            "audio": ["tarragon-esv2-76p-bg-0p.mp3"],
+            "images": ["Tarragon-Theatre-exterior-Peter-Harte.jpg, TT_Mainspace-Seats.png"]
+        },
+
+       {
+            "id": 3,
+            "type": "point",
+            "title": "Elicser’s Spadina Street Mural",
+            "description": "An influential street artist using his work as a form of expression.",
+            "text": "This stop starts from the beginning of Jabari Elliot’s journey to become the artist he is today. His unique style, skills, and countercultural art reflects the pluralism and diverse perspectives of Toronto. Explore how street art is used to free the voices of particular communities.",
+            "latitude": 43.6752,
+            "longitude": -79.4071,
+            "audio": ["stop3.mp3"],
+            "images": ["stop3-1.png", "stop3-2.png", "stop3-3.jpg", "stop3-4.jpg", "stop3-5.jpg", "stop3-6.jpg"]
+        },
+        {
+            "id": 4,
+            "type": "point",
+            "title": "The Republic of Rathnelly",
+            "description": "Artists in Action",
+            "text": "Art is not passive, art is an active form of expression. What happens when artists are tired of being ignored and insist on making their voices heard?",
+            "Latitude": 43.6767885,
+            "Longitude": -79.4031339,
+            "audio": ["Rathnelly.mp3"],
+            "images": ["Rathnelly1.png", "Rathnelly2.png" , "Rathnelly3.png", "Rathnelly4.png", "Rathnelly5.png"]
+        },
+
+       {
+            "id": 5,
+            "type": "point",
+            "title": "The House of Michael Snow",
+            "description": "Standout artist of the time",
+            "text": "Who were these artists, and why are they important? How do they connect to us now?",
+            "latitude": 43.6799383,
+            "longitude": -79.3995598,
+            "audio": ["thehouseofmichaelsnow.mp3"],
+            "images": ["allaroundarticle.png", "birdsarticle.png", "houseonthemarket.png", "walkingwoman.png", "wavelength.png", "playcredits.png", "prepart.png", "settingcomments.png", "studentcard.png"]
+        }
+    ]
+}

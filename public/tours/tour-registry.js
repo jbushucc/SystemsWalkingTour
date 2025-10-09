@@ -12,6 +12,10 @@ const AVAILABLE_TOURS = [
         id: 'fromheretothere',
         folder: 'FromHereToThere'
     },
+    {
+        id: 'LostCity',
+        folder: 'TheLostCity'
+    },
     // Add new tours here following the same pattern:
     // {
     //     id: 'your-tour-id',
