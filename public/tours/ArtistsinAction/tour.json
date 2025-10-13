@@ -13,7 +13,7 @@
             "latitude": 43.683500,
             "longitude": -79.415361,
             "audio": ["IndigenousMuralAudio.mp3"],
-            "images": ["TheSpiritsoftheAncestralTreesMural.jpg"]
+            "images": ["TheSpiritsoftheAncestralTreesMural.jpg","PinkStrobus.jpg"]
         },
         {
             "id": 2,
@@ -24,7 +24,7 @@
             "latitude": 43.693,
             "longitude": -79.404,
             "audio": ["tarragon-esv2-76p-bg-0p.mp3"],
-            "images": ["Tarragon-Theatre-exterior-Peter-Harte.jpg, TT_Mainspace-Seats.png"]
+            "images": ["Tarragon-Theatre-exterior-Peter-Harte.png", "TT_Mainspace-Seats.png"]
         },
 
        {

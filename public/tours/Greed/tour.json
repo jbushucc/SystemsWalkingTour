@@ -4,7 +4,6 @@
     "description": "The history of Toronto has been quietly plagued with greed. Indeed, our very foundations are built upon a disregard for sustainability and a Machiavellian exploitation of strength. From power stations to parks, we will explore how people have been draining the systems that we are a part of today. Join us to learn more about how greed has been a fundamental element of the city, but wait - there also exists hope for a more sustainable future.",
     "duration": "1 hour, 4 stops, 1.4km, Mild elevation change",
     "stops_data": [
-
         {
             "id": 1,
             "type": "point",
@@ -48,6 +47,6 @@
             "longitude": -79.4048,
             "audio": ["stop4.mp3"],
             "images": ["stop4-1.png", "stop4-2.png", "stop4-3.png", "stop4-4.png"]
-        },
+        }
     ]
 }
