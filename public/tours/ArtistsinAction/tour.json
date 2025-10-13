@@ -1,11 +1,10 @@
 {
-    "id": "artistsinaction",
+    "id": "ArtistsinAction",
     "title": "Artists in Action: Counterculture and Expression",
     "description": "Exploring the vibrant world of artists who challenge the status quo and use their work as a form of expression.",
     "duration": "",
     "stops_data": [
        {
-            "id": 1,
             "type": "point",
             "title": "The Spirits of the Ancestral Trees Mural at Nordheimer Ravine",
             "description": "Indigenous Presence through Street Art ",
@@ -16,7 +15,6 @@
             "images": ["TheSpiritsoftheAncestralTreesMural.jpg","PinkStrobus.jpg"]
         },
         {
-            "id": 2,
             "type": "point",
             "title": "Tarragon Theatre",
             "description": "The The former cribbage board factory that launched Canada's modern theatrical voice by strictly staging new Canadian plays",
@@ -28,7 +26,6 @@
         },
 
        {
-            "id": 3,
             "type": "point",
             "title": "Elicser’s Spadina Street Mural",
             "description": "An influential street artist using his work as a form of expression.",
@@ -39,7 +36,6 @@
             "images": ["stop3-1.png", "stop3-2.png", "stop3-3.jpg", "stop3-4.jpg", "stop3-5.jpg", "stop3-6.jpg"]
         },
         {
-            "id": 4,
             "type": "point",
             "title": "The Republic of Rathnelly",
             "description": "Artists in Action",
@@ -51,7 +47,6 @@
         },
 
        {
-            "id": 5,
             "type": "point",
             "title": "The House of Michael Snow",
             "description": "Standout artist of the time",

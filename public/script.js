@@ -27,17 +27,24 @@ async function loadTours() {
 
 // Create a tour card element
 function createTourCard(tour) {
+    console.log('Creating card for tour:', tour.id, tour);
 
     const card = document.createElement('div');
     card.className = 'tour-card';
     card.onclick = () => startTour(tour.id); //Make the whole card a button to transfer to the tour page
     
+    //load a thumbnail from a fixed location, if it fails use a default image
     card.innerHTML = `
-        <h3>${tour.title}</h3>
-        <p>${tour.description}</p>
-        <div class="tour-info">
-            <span>${tour.stops} stops</span>
-            <span class="tour-duration">${tour.duration}</span>
+        <div class="tour-card-content"> 
+            <img src="tours/${tour.id}/images/thumbnail.png" alt="${tour.title} thumbnail" class="tour-thumbnail" onerror="this.onerror=null;this.src='default-thumbnail.png';">
+            <div class="tour-text">
+                <h3>${tour.title}</h3>
+                <p>${tour.description}</p>
+                <div class="tour-info">
+                    <span>${tour.stops} stops</span>
+                    <span class="tour-duration">${tour.duration}</span>
+                </div>
+            </div>
         </div>
     `;
     

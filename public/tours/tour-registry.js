@@ -2,26 +2,27 @@
 // This code loads tours from JSON files for easy editing
 
 // List of available tours (add new tours here)
+//Javascript lacks a built-in way to read directory contents, so we have to hardcode the list of available tours
 const AVAILABLE_TOURS = [
 
     {
-        id: 'walkingtourwater',
+        id: 'WaterWeDoing',
         folder: 'WaterWeDoing'
     },
     {
-        id: 'fromheretothere',
+        id: 'FromHereToThere',
         folder: 'FromHereToThere'
     },
     {
-        id: 'LostCity',
+        id: 'TheLostCity',
         folder: 'TheLostCity'
     },
     {
-        id: 'artistsinaction',
+        id: 'ArtistsinAction',
         folder: 'ArtistsinAction'
     },
     {
-        id: 'Henry-Hesam-Linc-Lincoln',
+        id: 'Greed',
         folder: 'Greed'
     }
     // Add new tours here following the same pattern:
@@ -66,7 +67,6 @@ async function loadTourFromJSON(tourConfig) {
             }
 
             stops_data.push({ //push adds element to the end of a list
-                id: stop.id,
                 type: stop.type,
                 title: stop.title,
                 description: stop.description,
@@ -79,6 +79,7 @@ async function loadTourFromJSON(tourConfig) {
         }
         const processedTour = {
             id: tourData.id,
+            thumbnail: tourData.thumbnail,
             title: tourData.title,
             description: tourData.description,
             duration: tourData.duration,

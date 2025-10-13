@@ -1,12 +1,11 @@
 {
-    "id": "walkingtourwater",
+    "id": "WaterWeDoing",
     "title": "Water we Doin'?",
     "description": "Thirsty? The Casa Loma Neighbourhood has a rich history to offer. Water has run through this community for centuries, from melting ice that molded the land, to men and women that bent rivers, ponds, and pipes to their will. Casa Loma was shaped by water. Come with us to explore the names, faces, and places that water runs over and through. From Ravines named after a Pianoman, Parks, Pumps and Estates named for his Wife, and the Hydro Tycoon that centered his community, the rich history of water in Casa Loma was tied closely to the people who built it, and the people who forced what was once Yorkville to join a new world, all because of the water in their cups. What did they do then, and water we doing now? Join our group in following the tides, and learning about what lies under the surface, let’s dive deep!",
-    "duration": "1 Hour, 2.5km, Elevation ⬆️ 62 m · 34 m ⬇️",
+    "duration": "60 Minutes, 2.5km, Elevation ⬆️ 62 m · 34 m ⬇️",
     "stops_data": [
 
         {
-            "id": 1,
             "type": "point",
             "title": "The Dawn of Time",
             "description": "Stop 1 - Baldwin Steps",
@@ -17,7 +16,6 @@
             "images":["STOP1 IMAGE1.png","STOP1 IMAGE2.png","STOP1 IMAGE3.png","STOP1 IMAGE4.png"]
         },
         {
-            "id": 2,
             "type": "point",
             "title": "Casa Loma - A (somewhat) Brief History",
             "description": "Stop 2 - Casa Loma",
@@ -28,7 +26,6 @@
             "images":["STOP2 IMAGE1.jpg","STOP2 IMAGE2.jpg","STOP2 IMAGE3.jpg","STOP2 IMAGE4.jpg","STOP2 IMAGE5.jpg","STOP2 IMAGE6.jpg","STOP2 IMAGE7.jpg","STOP2 IMAGE8.jpg","STOP2 IMAGE9.jpg","STOP2 IMAGE10.jpg","STOP2 IMAGE11.jpg","STOP2 IMAGE12.jpg"]
         },
         {
-            "id": 3,
             "type": "point",
             "title": "Labour of Love",
             "description": "Stop 3 - Nordheimer Estate",
@@ -39,7 +36,6 @@
             "images": ["Stop 3 - 1.png","Stop 3 - 2.png","Stop 3 - 3.png","Stop 3 - 4.png","Stop 3 - 5.png"]
         },
         {
-            "id": 4,
             "type": "point",
             "title": "Changing Tides",
             "description": "Stop 4 - High Level Pumping Station",
@@ -50,7 +46,6 @@
             "images": ["STOP4_1samuelNordheimerYorkHorseClub.jpg","STOP4_2GlenEdythPond.jpg","STOP4_3HLPumpingStationConstruction.jpg","STOP4_4HLWaterPumps.jpg","STOP4_5HLPumpingStationOld.jpg"]
         },
         {
-            "id": 5,
             "type": "point",
             "title": "Sir Winston Churchill Reservoir",
             "description": "Stop 5 - Sir Winston Churchill Reservoir",

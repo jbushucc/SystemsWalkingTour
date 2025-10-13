@@ -1,11 +1,10 @@
 {
-    "id": "fromheretothere",
+    "id": "FromHereToThere",
     "title": "From here to there: How Torontonians get everywhere",
     "description": "Toronto is filled with pathways, not only paved roads, but paths, rivers, and trails. Over the long history of Toronto these pathways have been covered up or forgotten. Today we will help you rediscover these paths and show how they form the Toronto we know today.",
     "duration": "60 Minutes",
     "stops_data":[
         {
-            "id": 1,
             "type": "point",
             "title": "The Great Fill",
             "description": "St Clair, one of the oldest streets in Toronto, was not always the street it is today.",
@@ -16,7 +15,6 @@
             "images": ["image-1-1.png, image-1-2.png"]
         },
 	    {
-            "id": 2,
             "type": "point",
             "title": "The Russell Hill Emergency Exit - The Disaster That Shaped The TTC",
             "description": "A plethora of problems that led to one of the worst subway disasters in North America, the Russell Hill Emergency Exit tells an extensive and profound story of the disaster that shaped the TTC.",
@@ -27,7 +25,6 @@
             "images": ["image-2-1, image-2-2"]
         },
 	    {
-            "id": 3,
             "type": "point",
             "title": "The Protests That Changed Toronto",
             "description": "In the 50’s, the city dreamed of a highway that would connect downtown and the northern suburbs. However when it began, the people of the neighbourhoods it would cut through, like the Annex and Rathnelly, rose up and fought back, eventually stopping it before it could cut through their communities. ",
@@ -38,7 +35,6 @@
             "images": ["image-3-1, image-3-2"]
         },
         {
-            "id": 4,
             "type": "point",
             "title": "Transportation as a natural design",
             "description": "For millennia things have been moving all throughout the very land that you are standing on right now. This necessity to shift, to move from one place to another, to deliver, to transport, runs deep into the intrinsic design of all natural things. It is only due to us humans, the ones who believe that we are the only movers within the world, that these natural transportation systems have become hidden. This stop aims to uncover them and allow us all to learn the patterns of the past.",
@@ -49,7 +45,6 @@
             "images": ["image-4-1, image-4-2, image-4-3, image-4-4, image-4-5, image-4-6, image-4-7, image-4-8, image-4-9, image-4-10, image-4-11, image-4-12"]
         },
         {
-            "id": 5,
             "type": "point",
             "title": "The Road That Transports Time",
             "description": "Poplar Plains may seem like a small insignificant road but that could not be further from the truth, this road has a history so rich, it tells the story of Toronto’s transportation throughout time.",

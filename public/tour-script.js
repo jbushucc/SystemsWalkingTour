@@ -107,7 +107,7 @@ function initializeMap() {
                 marker.bindPopup(`<b>${stop.title}</b><br>${stop.description}`);
                 
                 // Highlight current stop differently
-                if (stop.id === currentStopIndex) {
+                if (i === currentStopIndex) {
                     marker.openPopup();
                 }
                 

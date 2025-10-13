@@ -1,11 +1,10 @@
 {
-    "id": "Henry-Hesam-Linc-Lincoln",
+    "id": "Greed",
     "title": "Toronto: The city built on Greed",
     "description": "The history of Toronto has been quietly plagued with greed. Indeed, our very foundations are built upon a disregard for sustainability and a Machiavellian exploitation of strength. From power stations to parks, we will explore how people have been draining the systems that we are a part of today. Join us to learn more about how greed has been a fundamental element of the city, but wait - there also exists hope for a more sustainable future.",
-    "duration": "1 hour, 4 stops, 1.4km, Mild elevation change",
+    "duration": "60 Minutes, 1.4km, Mild elevation change",
     "stops_data": [
         {
-            "id": 1,
             "type": "point",
             "title": "Submerged Nature",
             "description": "This stop is at the bottom of the Nordheimer ravine, with tourers standing on top of the buried Castle Frank Brook.",
@@ -16,7 +15,6 @@
             "images": ["stop1-1.png", "stop1-2.png", "stop1-3.png", "stop1-4.png", "stop1-5.png"]
         },
         {
-            "id": 2,
             "type": "point",
             "title": "Old Garrison Creek",
             "description": "",
@@ -27,7 +25,6 @@
             "images": ["stop2-1.png", "stop2-2.png", "stop2-3.png", "stop2-4.png", "stop2-5.png", "stop2-6.png", "stop2-7.png", "stop2-8.png", "stop2-9.png"]
         },
         {
-            "id": 3,
             "type": "point",
             "title": "Ambition",
             "description": "Tourers are standing in front of Casa Loma",
@@ -38,7 +35,6 @@
             "images": ["stop3-1.png", "stop3-2.png", "stop3-3.png", "stop3-4.png"]
         },
         {
-            "id": 4,
             "type": "point",
             "title": "Thirst",
             "description": "This stop takes place at the High Level Pumping station.",
