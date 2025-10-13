@@ -326,6 +326,8 @@ function nextStop() {
     if (currentStopIndex < currentTour.stops_data.length - 1) {
         currentStopIndex++;
         loadCurrentStop();
+        // Scroll to top of page for new stop content
+        window.scrollTo({ top: 0, behavior: 'instant' });   
     } else {
         // Finish tour
         finishTour();
