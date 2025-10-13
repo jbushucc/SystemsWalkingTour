@@ -6,7 +6,7 @@ const AVAILABLE_TOURS = [
 
     {
         id: 'walkingtourwater',
-        folder: 'WALKINGTOURWATER'
+        folder: 'WaterWeDoing'
     },
     {
         id: 'fromheretothere',
@@ -16,6 +16,14 @@ const AVAILABLE_TOURS = [
         id: 'LostCity',
         folder: 'TheLostCity'
     },
+    {
+        id: 'artistsinaction',
+        folder: 'ArtistsinAction'
+    },
+    {
+        id: 'Henry-Hesam-Linc-Lincoln',
+        folder: 'Greed'
+    }
     // Add new tours here following the same pattern:
     // {
     //     id: 'your-tour-id',

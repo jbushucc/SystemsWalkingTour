@@ -15,22 +15,18 @@
             "audio": ["stop1.mp3"],
             "images": ["image-1-1.png, image-1-2.png"]
         },
-     
- 
-	 {
+	    {
             "id": 2,
-            "type": "",
-            "title": "",
-            "description": "",
-            "text": "",
-            "latitude": 43.680006,
-            "longitude":-79.4101,
-            "audio": [""],
-            "images": [""]
+            "type": "point",
+            "title": "The Russell Hill Emergency Exit - The Disaster That Shaped The TTC",
+            "description": "A plethora of problems that led to one of the worst subway disasters in North America, the Russell Hill Emergency Exit tells an extensive and profound story of the disaster that shaped the TTC.",
+            "text": " The Toronto Transit Commission is used by around 2.5 million Torontonians daily. It’s an instrumental part of our daily lifestyle systems here in Toronto, allowing us to get from place to place via a quick subway, bus, or streetcar ride. But what we now know as the safe and reliable TTC that we all use and trust was once built on an illusion of safety, a system sustained more by its reputation than by its reality. In this audio file, you’ll learn more about North America’s worst subway accident, the Russell Hill Disaster that killed 3 people and the emergency exit passengers used to escape the catastrophe.",
+            "latitude": 43.682403,
+            "longitude": -79.41075,
+            "audio": ["stop2.mp3"],
+            "images": ["image-2-1, image-2-2"]
         },
-       
-
-	 {
+	    {
             "id": 3,
             "type": "point",
             "title": "The Protests That Changed Toronto",
@@ -41,22 +37,18 @@
             "audio": ["stop3.mp3"],
             "images": ["image-3-1, image-3-2"]
         },
-
-
         {
             "id": 4,
             "type": "point",
-            "title": "",
-            "description": "",
-            "text": "",
-            "latitude": 43.680006,
-            "longitude":-79.4101,
+            "title": "Transportation as a natural design",
+            "description": "For millennia things have been moving all throughout the very land that you are standing on right now. This necessity to shift, to move from one place to another, to deliver, to transport, runs deep into the intrinsic design of all natural things. It is only due to us humans, the ones who believe that we are the only movers within the world, that these natural transportation systems have become hidden. This stop aims to uncover them and allow us all to learn the patterns of the past.",
+            "text": "This stop on the walking tour will take you through the history of the very land that you are standing on reading this. You will be brought through many of the hidden modes of transportation that surround you but remain unseen. Specifically, the stop begins by going through the history and importance of the once surface level Castle Frank Brook: what it used to be and why it is the way it is now. Then, you will learn more about the importance of the Nordheimer ravine’s ecosystem to historical modes of transportation. After that the stop goes into detail on the benefits of and how to identify Ontario’s provincial tree, the Eastern White Pine. Finally, the tour ends by going into detail on some of the most inspiring transporters on the planet, the Yellow Bellied Sapsucker.",
+            "latitude": 43.680844,
+            "longitude": -79.406212,
             "audio": ["stop4.mp3"],
-            "images": ["image-4-1.png, image-4-2, image-4-3, image-4-4, image-4-5, image-4-6, image-4-7, image-4-8, image-4-9, image-4-10, image-4-11, image-4-12"]
+            "images": ["image-4-1, image-4-2, image-4-3, image-4-4, image-4-5, image-4-6, image-4-7, image-4-8, image-4-9, image-4-10, image-4-11, image-4-12"]
         },
-       
-
- 	{
+        {
             "id": 5,
             "type": "point",
             "title": "The Road That Transports Time",

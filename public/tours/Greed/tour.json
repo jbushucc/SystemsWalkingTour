@@ -1,0 +1,53 @@
+{
+    "id": "Henry-Hesam-Linc-Lincoln",
+    "title": "Toronto: The city built on Greed",
+    "description": "The history of Toronto has been quietly plagued with greed. Indeed, our very foundations are built upon a disregard for sustainability and a Machiavellian exploitation of strength. From power stations to parks, we will explore how people have been draining the systems that we are a part of today. Join us to learn more about how greed has been a fundamental element of the city, but wait - there also exists hope for a more sustainable future.",
+    "duration": "1 hour, 4 stops, 1.4km, Mild elevation change",
+    "stops_data": [
+
+        {
+            "id": 1,
+            "type": "point",
+            "title": "Submerged Nature",
+            "description": "This stop is at the bottom of the Nordheimer ravine, with tourers standing on top of the buried Castle Frank Brook.",
+            "text": "Nordheimer Ravine, once sustained by Castle Frank Brook and central to Indigenous life, was later exploited for clay, polluted, and buried as Toronto expanded. Its transformation from a thriving ecosystem to a sewer reflects the shift from Indigenous respect for water to settler exploitation.",
+            "latitude": 43.682683,
+            "longitude": -79.410089,
+            "audio": ["stop1.mp3"],
+            "images": ["stop1-1.png", "stop1-2.png", "stop1-3.png", "stop1-4.png", "stop1-5.png"]
+        },
+        {
+            "id": 2,
+            "type": "point",
+            "title": "Old Garrison Creek",
+            "description": "",
+            "text": "You find yourself in a foyer. Cool.",
+            "latitude": 43.681284,
+            "longitude": -79.4102352,
+            "audio": ["stop2.mp3"],
+            "images": ["stop2-1.png", "stop2-2.png", "stop2-3.png", "stop2-4.png", "stop2-5.png", "stop2-6.png", "stop2-7.png", "stop2-8.png", "stop2-9.png"]
+        },
+        {
+            "id": 3,
+            "type": "point",
+            "title": "Ambition",
+            "description": "Tourers are standing in front of Casa Loma",
+            "text": "Casa Loma was built by Henry Pellatt, a wealthy businessman and military officer who once ranked among Canada’s richest. His ambition to monopolize electricity and railways backfired when the government took these resources public, leaving him bankrupt and unable to maintain his grand castle. Casa Loma became a symbol of how greed and the pursuit of power led to his downfall.",
+            "latitude": 43.678293,
+            "longitude": -79.409675,
+            "audio": ["stop3.mp3"],
+            "images": ["stop3-1.png", "stop3-2.png", "stop3-3.png", "stop3-4.png"]
+        },
+        {
+            "id": 4,
+            "type": "point",
+            "title": "Thirst",
+            "description": "This stop takes place at the High Level Pumping station.",
+            "text": "This stop tells the story of Toronto’s water, once controlled by private greed but later transformed into a public system for the common good. The High Level Pumping Station symbolizes this shift, showing how collective action can build a healthier, more sustainable city.",
+            "latitude": 43.69325,
+            "longitude": -79.4048,
+            "audio": ["stop4.mp3"],
+            "images": ["stop4-1.png", "stop4-2.png", "stop4-3.png", "stop4-4.png"]
+        },
+    ]
+}
