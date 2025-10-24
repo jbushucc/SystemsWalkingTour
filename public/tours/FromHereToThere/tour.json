@@ -22,7 +22,7 @@
             "latitude": 43.682403,
             "longitude": -79.41075,
             "audio": ["stop2.mp3"],
-            "images": ["image-2-1, image-2-2"]
+            "images": ["image-2-1.png, image-2-2.png"]
         },
 	    {
             "type": "point",
@@ -32,7 +32,7 @@
             "latitude": 43.6823,
             "longitude": -79.4101,
             "audio": ["stop3.mp3"],
-            "images": ["image-3-1, image-3-2"]
+            "images": ["image-3-1.png, image-3-2.png"]
         },
         {
             "type": "point",
@@ -42,7 +42,7 @@
             "latitude": 43.680844,
             "longitude": -79.406212,
             "audio": ["stop4.mp3"],
-            "images": ["image-4-1, image-4-2, image-4-3, image-4-4, image-4-5, image-4-6, image-4-7, image-4-8, image-4-9, image-4-10, image-4-11, image-4-12"]
+            "images": ["image-4-1.png, image-4-2.png, image-4-3.png, image-4-4.png, image-4-5.png, image-4-6.png, image-4-7.png, image-4-8.png, image-4-9.png, image-4-10.png, image-4-11.png, image-4-12.png"]
         },
         {
             "type": "point",
@@ -52,7 +52,7 @@
             "latitude": 43.680006,
             "longitude": -79.402949,
             "audio": ["stop5.mp3"],
-            "images": ["image-5-1, image-5-2"]
+            "images": ["image-5-1.png, image-5-2.png"]
         }
     ]
 }
